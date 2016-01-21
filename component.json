@@ -1,0 +1,14 @@
+{
+    "name": "fit-auto-complete",
+    "description": "auto-complete",
+    "repos": "https://github.com/tb-component/pc-auto-complete.git",
+    "main": "lib/index.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "classnames": "^2.2.3",
+        "fit-input": "^1.1.14",
+        "jquery": "^2.2.0"
+    },
+    "version": "0.2.12"
+}
